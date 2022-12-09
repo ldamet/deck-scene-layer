@@ -7,7 +7,7 @@ import { Deck } from 'deck.gl';
 const AIRPLANE =
   'https://raw.githubusercontent.com/visgl/deck.gl-data/master/examples/scenegraph-layer/airplane.glb';
 const STADIUM =
-  'https://raw.githubusercontent.com/ldamet/deck-scene-layer/main/stade_de_france_v2.glb';
+  'https://raw.githubusercontent.com/ldamet/deck-scene-layer/main/assets/stade_de_france_v2.glb';
 // Set your mapbox token here
 const MAPBOX_TOKEN = '';
 const MODEL = STADIUM;
